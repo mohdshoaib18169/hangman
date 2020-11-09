@@ -33,7 +33,7 @@ getpuzzle()
             puzzle+=guess;
         }
         else{
-            puzzle+='*'
+            puzzle+=' * '
             //ct++;
         }
     })
